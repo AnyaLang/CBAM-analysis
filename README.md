@@ -1,2 +1,2 @@
-# CBAM-anaylsis
+# CBAM-analysis
 CBAM analysis
